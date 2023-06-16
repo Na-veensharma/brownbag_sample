@@ -1,0 +1,26 @@
+.primaryBGColor{
+  background-color: #90B77D;
+  color: white;
+}
+
+.secondaryBGColor{
+  background-color: #D2D79F;
+  color: white;
+}
+
+.highlightBGColor{
+  background-color: #42855B;
+  color: white;
+}
+
+.primaryColor{
+  color: #90B77D;
+}
+
+.secondaryColor{
+  color: #D2D79F;
+}
+
+.highlightColor{
+  color: #42855B;
+}
